@@ -5,3 +5,5 @@ https://www.youtube.com/watch?v=rNBrbt90bRk
 
 Step 2
 https://www.youtube.com/watch?v=H-R7a01AclI
+
+Many thanks to Kindson The Tech Pro for showing me how to create a calculator.
